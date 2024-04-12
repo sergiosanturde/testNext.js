@@ -1,2 +1,2 @@
 # testNext.js
-Prubas con Next.js
+Pruebas con Next.js
